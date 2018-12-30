@@ -71,4 +71,4 @@ Name the database "php_oop_crud_level_1"
 	(2, 'Electronics', '2014-06-01 00:35:07', '2014-05-30 17:34:33'),
 	(3, 'Motors', '2014-06-01 00:35:07', '2014-05-30 17:34:54');
 
-Current: 10.0 SEARCH RECORDS IN PHP THE OOP WAY
+TODO: Run the migration once again, because the image field is not present
