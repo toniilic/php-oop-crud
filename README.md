@@ -19,6 +19,7 @@ Name the database "php_oop_crud_level_1"
 	  `description` text NOT NULL,
 	  `price` int(11) NOT NULL,
 	  `category_id` int(11) NOT NULL,
+	  `image` varchar(512),
 	  `created` datetime NOT NULL,
 	  `modified` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
 	  PRIMARY KEY (`id`)
